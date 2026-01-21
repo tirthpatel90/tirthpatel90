@@ -40,7 +40,7 @@ An end-to-end MLOps pipeline designed to be independent of data format, focusing
 C / C++ · Python · JavaScript · Bash · HTML · CSS  
 
 **DevOps & Tools**  
-Docker · Linux · Git · GitHub Actions · Nginx  
+Docker · Linux · Git · GitHub Actions   
 
 ---
 
