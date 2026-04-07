@@ -1,37 +1,26 @@
-<h1 align="center">Tirth Patel</h1>
-<h3 align="center">Cloud | DevOps</h3>
+<h1 align="center">Hey 👋, I'm Tirth Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Engineering;DevOps;Building+Scalable+Systems&center=true&width=500&height=50">
+  <b>Cloud • DevOps • MLOps</b>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Systems;Cloud+Engineering;DevOps+Workflows&center=true&width=450&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tirthpatel90&label=Profile%20Views&color=blue&style=flat" />
+</p>
 ---
 
 ## 🛠️ Tech Stack  
 
-### Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,sql" />
+<p align="center">
+☁️ Cloud • ⚙️ DevOps • 🗄️ Databases • 🔧 Backend
 </p>
 
-### Frameworks & Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
-</p>
-
-### DevOps & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman" />
-</p>
-
-### Cloud  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
-
-### Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,sqlite" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,postman,python,nodejs,flask,postgres,mysql,firebase,sqlite" />
 </p>
 
 ---
