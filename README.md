@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tirthpatel90&label=Profile%20Views&color=blue&style=flat" />
 </p>
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -27,6 +28,20 @@
 
 ## 🚀 Projects  
 
+### 🔹 AutoHeal CI – Autonomous DevOps Intelligence  
+
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+
+Platform that predicts, analyzes, and resolves CI/CD pipeline failures before they impact production.  
+Transforms traditional "fail-and-fix" workflows into a proactive DevOps system using intelligent automation.
+Includes repository analysis, AI-generated code fixes from build logs(future build), real-time pipeline monitoring dashboard, GitHub integration, and secure backend architecture using JWT authentication.
+
+🔗 https://github.com/tirthpatel90/AutoHeal-CI  
+
+---
+
 ### 🔹 Data Agnostic MLOps Pipeline  
 
 ![MLOps](https://img.shields.io/badge/MLOps-Pipeline-blue)
@@ -36,6 +51,8 @@
 Modular pipeline for data ingestion, preprocessing, and model training across multiple formats (CSV, Excel, JSON).  
 Config-driven execution with scalable architecture aligned with MLOps & DevOps workflows.  
 Designed for future containerization using Docker.
+
+🔗 https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline  
 
 ---
 
@@ -48,6 +65,8 @@ Designed for future containerization using Docker.
 Client-side DevOps toolkit with utilities for configuration validation, secrets encoding, and infrastructure helpers.  
 Deployed on AWS S3 showcasing lightweight serverless delivery.
 
+🔗 https://github.com/tirthpatel90/DevOps-Utility-  
+
 ---
 
 ### 🔹 NAVIQ – Career Guidance Platform  
@@ -59,22 +78,7 @@ Deployed on AWS S3 showcasing lightweight serverless delivery.
 Full-stack platform providing structured learning roadmaps and resources.  
 Backend APIs built using Flask with SQLite database integration.
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirthpatel90&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=tirthpatel90&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthpatel90&theme=tokyo-night" />
-</p>
+🔗 https://github.com/tirthpatel90/NAVIQ  
 
 ---
 
