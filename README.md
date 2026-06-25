@@ -33,18 +33,6 @@
 
 <br/>
 
-### 🎧 Currently Vibing To...
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31sp5c6anu7dmax3lj6h3ixmkmc4&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sp5c6anu7dmax3lj6h3ixmkmc4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-<br/>
-
-### 👁️ Profile Views
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tirthpatel90&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
