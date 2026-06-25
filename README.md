@@ -1,97 +1,51 @@
-<h1 align="center">Hey 👋, I'm Tirth Patel</h1>
-
-<p align="center">
-  <b>Cloud • DevOps • MLOps</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Systems;Cloud+Engineering;DevOps+Workflows&center=true&width=450&height=45">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tirthpatel90&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-☁️ Cloud • ⚙️ DevOps • 🗄️ Databases • 🔧 Backend
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,postman,python,nodejs,flask,postgres,mysql,firebase,sqlite" />
-</p>
-
----
-
-## 🚀 Projects  
-
-### 🔹 AutoHeal CI – Autonomous DevOps Intelligence  
-
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue)
-![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-
-Platform that predicts, analyzes, and resolves CI/CD pipeline failures before they impact production.  
-Transforms traditional "fail-and-fix" workflows into a proactive DevOps system using intelligent automation.
-Includes repository analysis, AI-generated code fixes from build logs(future build), real-time pipeline monitoring dashboard, GitHub integration, and secure backend architecture using JWT authentication.
-
-🔗 https://github.com/tirthpatel90/AutoHeal-CI  
-
----
-
-### 🔹 Data Agnostic MLOps Pipeline  
-
-![MLOps](https://img.shields.io/badge/MLOps-Pipeline-blue)
-![Python](https://img.shields.io/badge/Python-Backend-yellow)
-![Docker](https://img.shields.io/badge/Docker-Planned-blue)
-
-Modular pipeline for data ingestion, preprocessing, and model training across multiple formats (CSV, Excel, JSON).  
-Config-driven execution with scalable architecture aligned with MLOps & DevOps workflows.  
-Designed for future containerization using Docker.
-
-🔗 https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline  
-
----
-
-### 🔹 DevOps Utility Hub  
-
-![DevOps](https://img.shields.io/badge/DevOps-Toolkit-blue)
-![AWS](https://img.shields.io/badge/AWS-S3-orange)
-![Serverless](https://img.shields.io/badge/Deployment-Serverless-green)
-
-Client-side DevOps toolkit with utilities for configuration validation, secrets encoding, and infrastructure helpers.  
-Deployed on AWS S3 showcasing lightweight serverless delivery.
-
-🔗 https://github.com/tirthpatel90/DevOps-Utility-  
-
----
-
-### 🔹 NAVIQ – Career Guidance Platform  
-
-![Flask](https://img.shields.io/badge/Flask-Backend-black)
-![SQLite](https://img.shields.io/badge/Database-SQLite-blue)
-![FullStack](https://img.shields.io/badge/Type-FullStack-purple)
-
-Full-stack platform providing structured learning roadmaps and resources.  
-Backend APIs built using Flask with SQLite database integration.
-
-🔗 https://github.com/tirthpatel90/NAVIQ  
-
----
-
-## 📫 Connect  
-
-<p>
-  <a href="http://www.linkedin.com/in/tirth-patel-3bbb30288">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<div align="center">
+  <h1>Hi, I'm Tirth Patel 👋</h1>
+  
+  <!-- Animated Typing Effect -->
+  <a href="https://github.com/tirthpatel90">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast;Building+robust+pipelines;Scalable+architecture+%26+MLOps" alt="Typing SVG" />
   </a>
-  <a href="mailto:tirthpatel5393@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://tirthdev-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
-  </a>
+</div>
+
+<br/>
+
+### 🚀 Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[Zedda](https://github.com/tirthpatel90/Zedda)** | A modern Python library currently in active development. |
+| **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Universal-MLOps-Pipeline)** | Data-agnostic architecture automating data ingestion & model training via Docker & AutoML. |
+| **[Serena](https://github.com/tirthpatel90/serena)** | Open-source contribution: Integrated a fully architectural CI pipeline & resolved complex SSH workflows. |
+| **[AIOps Engine](https://github.com/tirthpatel90/AIOps-Engine)** | Autonomous CI/CD failure detection platform using ML classification to optimize build times. |
+| **[Pod-Health-Guardian](https://github.com/tirthpatel90/Pod-Health-Guardian)** | Kubernetes-native monitoring tool for tracking pod health and infrastructure stability within K3s clusters. |
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Cloud, DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,githubactions&theme=dark" />
+  <br><br>
+  <!-- Languages & Databases -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,mysql,firebase,postman&theme=dark" />
+</p>
+
+<br/>
+
+### 📈 GitHub Activity Stream
+
+<!-- This generates a live animated line graph of your contributions -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthpatel90&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://tirthpatel-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-tirth.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:tirthpatel5393@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
