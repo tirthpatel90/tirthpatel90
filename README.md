@@ -33,10 +33,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tirthpatel90&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
 ### 📫 Let's Connect
 
 <p align="center">
@@ -44,3 +40,7 @@
   <a href="mailto:tirthpatel5393@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tirthpatel90&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
