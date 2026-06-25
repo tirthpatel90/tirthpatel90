@@ -81,24 +81,8 @@ Check my recent commits and PRs - you'll see the real work, not polished tutoria
 
 </div>
 
----
-
-## Current Status
-
-```
-🔴 Shipping: MLOps automation (the right way this time)
-🟡 Learning: Kubernetes internals (it's complex)
-🟢 Open: Collaborating on infrastructure tools
-```
-
----
-
 <div align="center">
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=tirthpatel90&label=Views&color=00D9FF&style=flat)
-
-*Built something cool? Have a better way? Open an issue, send a PR, or reach out.*
-
-**Last updated:** June 2026
 
 </div>
