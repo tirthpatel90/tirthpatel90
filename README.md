@@ -1,46 +1,104 @@
-<div align="center">
-  <h1>Hi, I'm Tirth Patel 👋</h1>
-  
-  <!-- Animated Typing Effect -->
-  <a href="https://github.com/tirthpatel90">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast;Building+robust+pipelines;Scalable+architecture+%26+MLOps" alt="Typing SVG" />
-  </a>
+# Hey, I'm Tirth 👋
+
+<a href="https://github.com/tirthpatel90">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Automating+infrastructure;Building+real+tools;Learning+in+public" alt="Typing animation" />
+</a>
+
+I automate things. I deploy things. I break things (on purpose, to understand them better).
+
+Currently wrestling with CI/CD pipelines, building tools that actually solve problems, and learning everything in public (including my failures).
+
+---
+
+## Projects That Matter
+
+<div>
+
+| Project | What It Does | Problem Solved |
+|---------|-------------|-----------------|
+| **[Zedda](https://github.com/Zedda-Labs/Zedda)** | Python library, building piece by piece | Learning in public |
+| **[Serena](https://github.com/tirthpatel90/serena)** | Fixed SSH workflows, built CI architecture | Open source contribution done right |
+| **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline)** | Data ingestion → model training, automated | No more manual pipeline babysitting |
+| **[AIOps Engine](https://github.com/tirthpatel90/AutoHeal-CI)** | CI/CD failures detected automatically via ML | Stop waking up at 3 AM for build failures |
+| **[Pod-Health-Guardian](https://github.com/tirthpatel90/Pod-Health-Guardian)** | Kubernetes pod monitoring for K3s clusters | Know when pods die before users complain |
+
 </div>
 
-<br/>
+---
 
-### 🚀 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| **[Zedda](https://github.com/Zedda-Labs/Zedda)** | A modern Python library currently in active development. |
-| **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline)** | Data-agnostic architecture automating data ingestion & model training via Docker & AutoML. |
-| **[Serena](https://github.com/tirthpatel90/serena)** | Open-source contribution: Integrated a fully architectural CI pipeline & resolved complex SSH workflows. |
-| **[AIOps Engine](https://github.com/tirthpatel90/AutoHeal-CI)** | Autonomous CI/CD failure detection platform using ML classification to optimize build times. |
-| **[Pod-Health-Guardian](https://github.com/tirthpatel90/Pod-Health-Guardian)** | Kubernetes-native monitoring tool for tracking pod health and infrastructure stability within K3s clusters. |
-
-<br/>
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <!-- Cloud, DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,githubactions&theme=dark" />
-  <br><br>
-  <!-- Languages & Databases -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,mysql,firebase,postman&theme=dark" />
-</p>
-
-<br/>
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://tirthpatel-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-tirth.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:tirthpatel5393@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## Stack I Actually Use
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tirthpatel90&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**CI/CD (The Hard Part)**
+
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088F0?style=flat&logo=githubactions&logoColor=white)
+
+**Databases & Data**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+Check my recent commits and PRs - you'll see the real work, not polished tutorials.
+
+---
+
+## Real Talk
+
+✓ Deploy infrastructure for production systems (no sandboxes)  
+✓ Tools used by actual teams solving actual problems  
+✓ Share failures as openly as successes  
+✓ Code quality matters, but shipping matters more  
+✗ If I'm quiet for a bit, there's probably a production issue somewhere
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-tirthpatel5393@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tirthpatel5393@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tirthpatel.dev-000000?style=flat&logo=google-chrome&logoColor=white)](https://tirthpatel-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth-patel)
+[![GitHub](https://img.shields.io/badge/GitHub-tirthpatel90-181717?style=flat&logo=github&logoColor=white)](https://github.com/tirthpatel90)
+
+</div>
+
+---
+
+## Current Status
+
+```
+🔴 Shipping: MLOps automation (the right way this time)
+🟡 Learning: Kubernetes internals (it's complex)
+🟢 Open: Collaborating on infrastructure tools
+```
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=tirthpatel90&label=Views&color=00D9FF&style=flat)
+
+*Built something cool? Have a better way? Open an issue, send a PR, or reach out.*
+
+**Last updated:** June 2026
+
 </div>
