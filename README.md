@@ -13,10 +13,10 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[Zedda](https://github.com/tirthpatel90/Zedda)** | A modern Python library currently in active development. |
-| **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Universal-MLOps-Pipeline)** | Data-agnostic architecture automating data ingestion & model training via Docker & AutoML. |
+| **[Zedda](https://github.com/Zedda-Labs/Zedda)** | A modern Python library currently in active development. |
+| **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline)** | Data-agnostic architecture automating data ingestion & model training via Docker & AutoML. |
 | **[Serena](https://github.com/tirthpatel90/serena)** | Open-source contribution: Integrated a fully architectural CI pipeline & resolved complex SSH workflows. |
-| **[AIOps Engine](https://github.com/tirthpatel90/AIOps-Engine)** | Autonomous CI/CD failure detection platform using ML classification to optimize build times. |
+| **[AIOps Engine](https://github.com/tirthpatel90/AutoHeal-CI)** | Autonomous CI/CD failure detection platform using ML classification to optimize build times. |
 | **[Pod-Health-Guardian](https://github.com/tirthpatel90/Pod-Health-Guardian)** | Kubernetes-native monitoring tool for tracking pod health and infrastructure stability within K3s clusters. |
 
 <br/>
