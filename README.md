@@ -1,5 +1,9 @@
 # Hey, I'm Tirth 👋
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 <a href="https://github.com/tirthpatel90">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Automating+infrastructure;Building+real+tools;Learning+in+public" alt="Typing animation" />
 </a>
@@ -7,6 +11,16 @@
 I automate things. I deploy things. I break things (on purpose, to understand them better).
 
 Currently wrestling with CI/CD pipelines, building tools that actually solve problems, and learning everything in public (including my failures).
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="YOUR_GIF_URL_HERE" width="280" alt="Coding GIF">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -16,7 +30,7 @@ Currently wrestling with CI/CD pipelines, building tools that actually solve pro
 
 | Project | What It Does | Problem Solved |
 |---------|-------------|-----------------|
-| **[Zedda](https://github.com/Zedda-Labs/Zedda)** | Python library, building piece by piece | Learning in public |
+| **[Zedda](https://github.com/Zedda-Labs/Zedda)** | Python library, building piece by piece | Author of Zedda |
 | **[Serena](https://github.com/tirthpatel90/serena)** | Fixed SSH workflows, built CI architecture | Open source contribution done right |
 | **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline)** | Data ingestion → model training, automated | No more manual pipeline babysitting |
 | **[AIOps Engine](https://github.com/tirthpatel90/AutoHeal-CI)** | CI/CD failures detected automatically via ML | Stop waking up at 3 AM for build failures |
@@ -35,6 +49,7 @@ Currently wrestling with CI/CD pipelines, building tools that actually solve pro
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat)
 
 **Infrastructure & DevOps**
 
@@ -42,31 +57,21 @@ Currently wrestling with CI/CD pipelines, building tools that actually solve pro
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-**CI/CD (The Hard Part)**
-
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088F0?style=flat&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Databases & Data**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 </div>
 
 ---
 
 Check my recent commits and PRs - you'll see the real work, not polished tutorials.
-
----
-
-## Real Talk
-
-✓ Deploy infrastructure for production systems (no sandboxes)  
-✓ Tools used by actual teams solving actual problems  
-✓ Share failures as openly as successes  
-✓ Code quality matters, but shipping matters more  
-✗ If I'm quiet for a bit, there's probably a production issue somewhere
 
 ---
 
