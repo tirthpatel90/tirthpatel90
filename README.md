@@ -9,13 +9,9 @@
 </a>
 
 <br><br>
-
 I automate things. I deploy things. I break things (on purpose, to understand them better).
-
 <br>
-
 Currently wrestling with CI/CD pipelines, building tools that actually solve problems, and learning everything in public (including my failures).
-
 </td>
 
 <td width="35%" align="center">
