@@ -7,11 +7,14 @@
 <a href="https://github.com/tirthpatel90">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Automating+infrastructure;Building+real+tools;Learning+in+public" alt="Typing animation" />
 </a>
-
 <br><br>
+
 I automate things. I deploy things. I break things (on purpose, to understand them better).
+
 <br>
+
 Currently wrestling with CI/CD pipelines, building tools that actually solve problems, and learning everything in public (including my failures).
+
 </td>
 
 <td width="35%" align="center">
