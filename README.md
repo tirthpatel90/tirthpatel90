@@ -32,7 +32,7 @@ Currently wrestling with CI/CD pipelines, building tools that actually solve pro
 
 | Project | What It Does | Problem Solved |
 |---------|-------------|-----------------|
-| **[Zedda](https://github.com/Zedda-Labs/Zedda)** | Python library, building piece by piece | Author of Zedda |
+| **[Zedda](https://github.com/Zedda-Labs/Zedda)** | **Co-Founder, Author & Core Maintainer** | High-performance Exploratory Data Analysis (EDA) library for Python — runs **2,000× faster** than traditional tools |
 | **[Serena](https://github.com/tirthpatel90/serena)** | Fixed SSH workflows, built CI architecture | Open source contribution done right |
 | **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline)** | Data ingestion → model training, automated | No more manual pipeline babysitting |
 | **[AIOps Engine](https://github.com/tirthpatel90/AutoHeal-CI)** | CI/CD failures detected automatically via ML | Stop waking up at 3 AM for build failures |
