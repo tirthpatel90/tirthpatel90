@@ -33,10 +33,10 @@ Currently wrestling with CI/CD pipelines, building tools that actually solve pro
 | Project | What It Does | Problem Solved |
 |---------|-------------|-----------------|
 | **[Zedda](https://github.com/Zedda-Labs/Zedda)** | **Co-Founder, Author & Core Maintainer** | High-performance Exploratory Data Analysis (EDA) library for Python — runs **2,000× faster** than traditional tools |
-| **[Serena](https://github.com/tirthpatel90/serena)** | Fixed SSH workflows, built CI architecture | Open source contribution done right |
-| **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline)** | Data ingestion → model training, automated | No more manual pipeline babysitting |
-| **[AIOps Engine](https://github.com/tirthpatel90/AutoHeal-CI)** | CI/CD failures detected automatically via ML | Stop waking up at 3 AM for build failures |
-| **[Pod-Health-Guardian](https://github.com/tirthpatel90/Pod-Health-Guardian)** | Kubernetes pod monitoring for K3s clusters | Know when pods die before users complain |
+| **[Serena](https://github.com/tirthpatel90/serena)** | **Open Source Contributor (MCP Server)** | Refactored GitHub Actions workflows, cutting CI/CD execution time from **~1 hour to ~10 minutes** and resolving SSH deployment issues |
+| **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline)** | **End-to-End MLOps Automation Platform** | Automates data ingestion, preprocessing, model training, and explainability for production-ready ML workflows |
+| **[AIOps Engine](https://github.com/tirthpatel90/AutoHeal-CI)** | CI/CD failures detected automatically via ML | Detects, classifies, and analyzes CI/CD pipeline failures automatically to reduce debugging time and improve release stability |
+| **[Pod-Health-Guardian](https://github.com/tirthpatel90/Pod-Health-Guardian)** | **Kubernetes Health Monitoring Tool** | Continuously monitors K3s clusters, tracks pod health, and proactively detects infrastructure issues before they impact applications |
 
 </div>
 
