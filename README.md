@@ -5,7 +5,7 @@
 <td width="65%" valign="top">
 
 <a href="https://github.com/tirthpatel90">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Automating+infrastructure;Building+real+tools;Learning+in+public" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Automating+infrastructure;Building+real+tools;Learning+in+public;Open+Source+Contributor" alt="Typing animation" />
 </a>
 <br><br>
 
@@ -26,14 +26,22 @@ Currently wrestling with CI/CD pipelines, building tools that actually solve pro
 
 ---
 
+## Open Source Contributions
+
+| Project | Role / Contribution |
+|---------|---------------------|
+| **[Zedda](https://github.com/Zedda-Labs/Zedda)** | **Co-Founder & Core Maintainer** — Built and maintained core EDA functionality while leading CI/CD, packaging, infrastructure, security hardening, and developer tooling |
+| **[CUDA Python](https://github.com/NVIDIA/cuda-python)** | **Open Source Contributor** — Modernized Python 3.15 CI by removing custom NumPy builds and integrating pre-built nightly wheels for more reliable cross-platform testing |
+| **[Serena](https://github.com/oraios/serena)** | **Open Source Contributor** — Redesigned monolithic CI into a parallel matrix architecture with Docker toolchains, caching, and intelligent test quarantine, reducing CI runtime from ~1 hour to <10 minutes |
+
+---
+
 ## Projects That Matter
 
 <div>
 
 | Project | What It Does | Problem Solved |
 |---------|-------------|-----------------|
-| **[Zedda](https://github.com/Zedda-Labs/Zedda)** | **Co-Founder, Author & Core Maintainer** | High-performance Exploratory Data Analysis (EDA) library for Python — runs **2,000× faster** than traditional tools |
-| **[Serena](https://github.com/tirthpatel90/serena)** | **Open Source Contributor (MCP Server)** | Refactored GitHub Actions workflows, cutting CI/CD execution time from **~1 hour to ~10 minutes** and resolving SSH deployment issues |
 | **[Universal MLOps Pipeline](https://github.com/tirthpatel90/Data-agnostic-MLOps-pipeline)** | **End-to-End MLOps Automation Platform** | Automates data ingestion, preprocessing, model training, and explainability for production-ready ML workflows |
 | **[AIOps Engine](https://github.com/tirthpatel90/AutoHeal-CI)** | CI/CD failures detected automatically via ML | Detects, classifies, and analyzes CI/CD pipeline failures automatically to reduce debugging time and improve release stability |
 | **[Pod-Health-Guardian](https://github.com/tirthpatel90/Pod-Health-Guardian)** | **Kubernetes Health Monitoring Tool** | Continuously monitors K3s clusters, tracks pod health, and proactively detects infrastructure issues before they impact applications |
