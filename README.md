@@ -31,7 +31,7 @@ Currently wrestling with CI/CD pipelines, building tools that actually solve pro
 | Project | Role / Contribution |
 |---------|---------------------|
 | **[Zedda](https://github.com/Zedda-Labs/Zedda)** | **Co-Founder & Core Maintainer** — Built and maintained core EDA functionality while leading CI/CD, packaging, infrastructure, security hardening, and developer tooling |
-| **[CUDA Python](https://github.com/NVIDIA/cuda-python)** | **Open Source Contributor** — Modernized Python 3.15 CI by removing custom NumPy builds and integrating pre-built nightly wheels for more reliable cross-platform testing |
+| **[NVIDIA/CUDA Python](https://github.com/NVIDIA/cuda-python)** | **Open Source Contributor** — Modernized Python 3.15 CI by removing custom NumPy builds and integrating pre-built nightly wheels for more reliable cross-platform testing |
 | **[Serena](https://github.com/oraios/serena)** | **Open Source Contributor** — Redesigned monolithic CI into a parallel matrix architecture with Docker toolchains, caching, and intelligent test quarantine, reducing CI runtime from ~1 hour to <10 minutes |
 
 ---
