@@ -81,7 +81,7 @@ Currently wrestling with CI/CD pipelines, building tools that actually solve pro
 
 ---
 
-Check my recent commits and PRs - you'll see the real work, not polished tutorials.
+Check my recent commits and PRs -- you'll see the real work, not polished tutorials.
 
 ---
 
